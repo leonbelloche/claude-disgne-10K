@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "btpi",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [".claude/serve-btpi.mjs"],
+      "port": 4385
+    }
+  ]
+}

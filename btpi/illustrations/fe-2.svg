@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 820" width="600" height="820">
+<rect width="600" height="820" fill="#201f1c"/>
+<g fill="none" stroke="#f2f1ec" stroke-opacity="0.13" stroke-width="2" stroke-linecap="round">
+<path d="M300 40 V248"/>
+<path d="M266 276 H334"/>
+<path d="M286 248 L294 276 M314 248 L306 276"/>
+</g>
+<g fill="none" stroke="#f2f1ec" stroke-opacity="0.2" stroke-width="2" stroke-linecap="round">
+<path d="M272.6 286.7 L50 357.2" stroke-dasharray="1 11" stroke-dashoffset="0.8"/>
+<path d="M270 290.7 L50 383.5" stroke-dasharray="1 11" stroke-dashoffset="10"/>
+<path d="M275.4 290.5 L50 404.9" stroke-dasharray="1 17" stroke-dashoffset="1.2"/>
+<path d="M271.3 295.5 L50 430.7" stroke-dasharray="1 11" stroke-dashoffset="10.4"/>
+<path d="M271.1 300.2 L50 469.9" stroke-dasharray="1 11" stroke-dashoffset="6.3"/>
+<path d="M267.5 307 L50 501.1" stroke-dasharray="1 11" stroke-dashoffset="6.1"/>
+<path d="M276.7 302.1 L50 536.2" stroke-dasharray="1 11" stroke-dashoffset="6.3"/>
+<path d="M276.3 308.1 L50 595.1" stroke-dasharray="1 11" stroke-dashoffset="6.4"/>
+<path d="M282.1 305.3 L50 659.1" stroke-dasharray="1 11" stroke-dashoffset="6.2"/>
+<path d="M283.3 308.7 L50 738.2" stroke-dasharray="1 17" stroke-dashoffset="13.2"/>
+<path d="M282.6 316.9 L75.6 780" stroke-dasharray="1 15" stroke-dashoffset="4.5"/>
+<path d="M287.8 314.6 L132.1 780" stroke-dasharray="1 13" stroke-dashoffset="1.1"/>
+<path d="M291 311.7 L166.6 780" stroke-dasharray="1 15" stroke-dashoffset="10.9"/>
+<path d="M292.3 321 L210.5 780" stroke-dasharray="1 11" stroke-dashoffset="5.6"/>
+<path d="M296.9 310 L250.7 780" stroke-dasharray="1 17" stroke-dashoffset="7.2"/>
+<path d="M300.5 305.4 L309.7 780" stroke-dasharray="1 15" stroke-dashoffset="5.1"/>
+<path d="M302.7 312.8 L339 780" stroke-dasharray="1 17" stroke-dashoffset="1.2"/>
+<path d="M304.6 308.5 L376.1 780" stroke-dasharray="1 11" stroke-dashoffset="0.7"/>
+<path d="M309.7 314.4 L433.4 780" stroke-dasharray="1 17" stroke-dashoffset="4.8"/>
+<path d="M312.3 314 L472.1 780" stroke-dasharray="1 11" stroke-dashoffset="10.3"/>
+<path d="M314.8 311.9 L519.9 780" stroke-dasharray="1 17" stroke-dashoffset="1"/>
+<path d="M313.9 302.7 L550 720.9" stroke-dasharray="1 13" stroke-dashoffset="5.2"/>
+<path d="M319.8 306.8 L550 640.4" stroke-dasharray="1 13" stroke-dashoffset="5.8"/>
+<path d="M326.1 310.8 L550 592.1" stroke-dasharray="1 17" stroke-dashoffset="14.7"/>
+<path d="M322.7 302.6 L550 549.2" stroke-dasharray="1 15" stroke-dashoffset="10.2"/>
+<path d="M322.3 298.3 L550 505.4" stroke-dasharray="1 11" stroke-dashoffset="1.9"/>
+<path d="M323.8 296.5 L550 472.2" stroke-dasharray="1 17" stroke-dashoffset="14.1"/>
+<path d="M326 295 L550 441.4" stroke-dasharray="1 13" stroke-dashoffset="5.4"/>
+<path d="M332 294.9 L550 410.4" stroke-dasharray="1 13" stroke-dashoffset="9"/>
+<path d="M334.2 292.4 L550 382.9" stroke-dasharray="1 11" stroke-dashoffset="5"/>
+<path d="M341.2 290.7 L550 355" stroke-dasharray="1 17" stroke-dashoffset="6.8"/>
+</g>
+<g fill="none" stroke="#f2f1ec" stroke-opacity="0.13" stroke-width="1.2"><path d="M60 780 H540"/></g>
+<ellipse cx="300" cy="262" rx="6" ry="9" fill="#e1251b"/>
+</svg>
