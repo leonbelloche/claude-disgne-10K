@@ -6,12 +6,17 @@ scènes épinglées, zoom-texte, rideau de lames et bande d'accent.
 
 ## Voir le site en local
 
+Le site est sur la branche **`claude/sharp-allen-xxep9z`** (la branche `main` est vide).
+
+**Le plus simple** : téléchargez la branche (sur GitHub : choisir la branche, puis *Code → Download ZIP*),
+décompressez-la, puis double-cliquez sur `btpi/index.html`. Aucun serveur n'est nécessaire.
+
+**Avec un serveur local** (Node.js requis), depuis la racine du dépôt :
+
 ```bash
 node .claude/serve-btpi.mjs
 # → http://localhost:4385
 ```
-
-(Un simple double-clic sur `index.html` ne suffit pas : le site doit être servi en HTTP.)
 
 ## Modifier le contenu
 
