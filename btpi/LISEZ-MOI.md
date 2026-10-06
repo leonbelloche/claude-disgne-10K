@@ -17,13 +17,14 @@ Double-cliquez sur **`index.html`**. Le site s'ouvre dans le navigateur, sans ri
 | `mentions-legales.html` | La page des mentions légales |
 | `fonts/` | Les polices, hébergées sur le site (avec leurs licences libres) |
 | `favicon.svg`, `favicon-32.png`, `apple-touch-icon.png` | Les icônes d'onglet et d'écran d'accueil |
+| `infos/mise-en-ligne-ovh.md` | Les étapes pour mettre le site en ligne chez OVH |
 | `infos/a-valider.md` | Ce qu'il reste à fournir ou à vérifier avant la mise en ligne |
 | `infos/entreprise.md` | Les informations de l'entreprise |
 | `infos/mail-client.md` | Le mail envoyé au client |
 | `infos/sources-images.md` | La provenance de chaque image |
 | `infos/apercu-ordinateur.jpg`, `infos/apercu-telephone.jpg` | Des captures du site |
 
-Pour la mise en ligne, envoyez sur l'hébergeur tout le dossier, sauf `infos/` et ce fichier.
+Pour la mise en ligne, envoyez sur l'hébergeur tout le dossier, sauf `infos/` et ce fichier (voir `infos/mise-en-ligne-ovh.md`).
 
 ## Modifier le site
 

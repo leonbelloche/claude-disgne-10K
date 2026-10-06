@@ -4,8 +4,6 @@ Le site intègre la réponse de Jordan Bellicini (octobre 2026). Voici ce qu'il 
 
 ## À fournir
 
-- **Hébergeur** : à compléter dans `mentions-legales.html`, section « Hébergement » (en rouge),
-  une fois l'hébergement choisi.
 - **Logo** : pas encore reçu (fichier .svg, .ai, .eps ou .pdf). En attendant, le site affiche « BTPI » en toutes lettres.
 
 ## À vérifier
@@ -37,7 +35,7 @@ Le site intègre la réponse de Jordan Bellicini (octobre 2026). Voici ce qu'il 
 - Coordonnées réelles : e-mail `btpi.bellicini@btpispk.fr`, portable et fixe.
 - Références clients à la place du témoignage inventé.
 - Engagements non confirmés retirés : « réponse sous 48 h », « devis gratuit », « pas de visite oubliée ».
-- Page « Mentions légales » avec le texte fourni.
+- Page « Mentions légales » avec le texte fourni ; hébergeur OVH (domaine, messagerie et hébergement chez OVH).
 - Aperçu de partage : titre, description et image 1200×630.
 - Icônes d'onglet et d'écran d'accueil.
 - RGPD : polices hébergées sur le site et images d'exemple retirées. Le site ne fait plus aucun appel à un autre serveur.
