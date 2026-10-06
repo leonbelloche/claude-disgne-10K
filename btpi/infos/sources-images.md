@@ -4,8 +4,9 @@ Toutes les images du site sont dans `../images/`, en local : aucune n'est charg�
 
 | Fichier | Emplacement | Source |
 |---|---|---|
-| `hero.jpg` | Accroche (plein écran) | **Image IA** — Higgsfield (modèle `z_image`), recadrée et étalonnée |
-| `fl-03.jpg` | Nuage du hero | **Image IA** — Higgsfield (modèle `z_image`) |
+| `hero.jpg` | Accroche (plein écran) | Wikimedia Commons — U.S. Navy, photo de Bo J. Flannigan, domaine public : [test de sprinklers](https://commons.wikimedia.org/wiki/File:US_Navy_050111-N-5781F-087_Damage_Controlman_3rd_Class_Pat_Knodel,_of_Orange_County,_Calif.,_monitors_the_testing_of_the_hangar_bay_sprinkler_system_aboard_the_conventionally_powered_aircraft_carrier_USS_Kitty_Hawk_(CV_63)_duri.jpg). Recadrée et étalonnée |
+| `og-image.jpg` | Aperçu de partage | Composée à partir de `hero.jpg` |
+| `fl-03.jpg` | Nuage du hero | Wikimedia Commons — Brandon Leon, licence CC BY-SA 2.0 : [tête de sprinkler](https://commons.wikimedia.org/wiki/File:Fire_sprinkler_roof_mount_side_view.jpg). Recadrée |
 | `process.jpg` | Zoom du processus | Pexels — https://www.pexels.com/photo/16442684/ |
 | `fl-01.jpg` | Nuage du hero | Unsplash — https://images.unsplash.com/photo-1789589769765-eb1f2a0b528f |
 | `fl-02.jpg` | Nuage du hero | Pexels — https://www.pexels.com/photo/29246285/ |
@@ -37,5 +38,5 @@ Toutes les images du site sont dans `../images/`, en local : aucune n'est charg�
 | `tr-19.jpg` | Traînée sous la souris | Unsplash — https://images.unsplash.com/photo-1785682117437-91f081385f6b |
 | `tr-20.jpg` | Traînée sous la souris | Unsplash — https://images.unsplash.com/photo-1585585825759-979ec75438cc |
 
-Licences : [Unsplash](https://unsplash.com/license) et [Pexels](https://www.pexels.com/license/) — usage libre, attribution non obligatoire.
+Licences : [Unsplash](https://unsplash.com/license) et [Pexels](https://www.pexels.com/license/) — usage libre, attribution non obligatoire. Wikimedia Commons : domaine public (U.S. Navy) et [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.fr) (attribution obligatoire, faite dans les mentions légales). Aucune image n'est générée par IA.
 Les illustrations `../illustrations/fe-*.svg` ont été dessinées pour le site (SVG faits à la main, pas d'IA).

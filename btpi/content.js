@@ -41,8 +41,8 @@ window.SITE_CONTENT = {
     line1: 'Avant les pompiers,',
     line2a: 'il y a',
     line2b: 'nos réseaux.',
-    image: 'images/hero.jpg',                       // 3:2 — l'entrepôt où les sprinklers se sont déclenchés
-    imageAlt: 'Allée d’entrepôt où les sprinklers se sont déclenchés au-dessus des racks',
+    image: 'images/hero.jpg',                       // 3:2 — vrai test de sprinklers dans un grand hall
+    imageAlt: 'Test d’un réseau sprinkler dans un grand hall industriel : l’eau tombe de toutes les têtes',
     floaters: [                                     // 10 visuels du pasteboard (portrait 2:3 / paysage 3:2)
       'images/fl-01.jpg',
       'images/fl-02.jpg',

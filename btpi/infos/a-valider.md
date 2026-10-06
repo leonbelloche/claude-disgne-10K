@@ -28,8 +28,9 @@ Le site intègre la réponse de Jordan Bellicini (octobre 2026). Voici ce qu'il 
 
 ## Pour plus tard
 
-- **Photos** : le site utilise 30 photos de banques d'images (Unsplash, Pexels) et 2 images générées par IA
-  (Higgsfield). Si BTPI fournit les siennes, il faudra les remplacer. Détail dans `sources-images.md`.
+- **Photos** : le site utilise 30 photos de banques d'images (Unsplash, Pexels) et 2 photos de Wikimedia Commons,
+  créditées dans les mentions légales. Aucune image générée par IA. Si BTPI fournit ses propres photos,
+  elles pourront les remplacer. Détail dans `sources-images.md`.
 
 ## Déjà fait
 

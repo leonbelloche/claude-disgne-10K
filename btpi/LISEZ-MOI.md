@@ -39,7 +39,8 @@ Pour la mise en ligne, envoyez sur l'hébergeur tout le dossier, sauf `infos/` e
 - Section « preuve » en bento, avec 4 métiers : Conception · Sprinklers · RIA · Entretien & réparation.
   Les illustrations SVG ont été dessinées pour le site.
 - Écarts par rapport au skill « Site Immersif » :
-  - 2 images générées par IA, à la demande (le skill les interdit) ;
+  - 2 vraies photos de sprinklers venant de Wikimedia Commons (le skill prévoit Unsplash et Pexels),
+    créditées dans les mentions légales ;
   - `styles.css` : un correctif de 2 lignes pour le bento sous 480 px, où deux tuiles étaient
     écrasées dans une colonne de 26 px ;
   - `index.html` : réglages de mise en ligne (titre, description, aperçu de partage, icônes,
