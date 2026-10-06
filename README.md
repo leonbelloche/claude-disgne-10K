@@ -1,8 +1,6 @@
 # BTPI — site vitrine
 
-Tout est dans le dossier **[`site-btpi/`](site-btpi/)** :
+Le site est dans le dossier **[`btpi/`](btpi/)**. Double-cliquez sur `btpi/index.html` pour l'ouvrir.
 
-- `site-btpi/site/` : le site. Double-cliquez sur `index.html` pour l'ouvrir.
-- `site-btpi/infos/` : toutes les informations (mail au client, points à valider, recherches sur l'entreprise, provenance des images, aperçus).
-
-Commencez par lire [`site-btpi/LISEZ-MOI.md`](site-btpi/LISEZ-MOI.md).
+Toutes les informations (mail au client, points à valider, recherches sur l'entreprise, provenance des
+images, aperçus) sont dans `btpi/infos/`. Commencez par lire [`btpi/LISEZ-MOI.md`](btpi/LISEZ-MOI.md).

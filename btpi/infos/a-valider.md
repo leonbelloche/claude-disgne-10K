@@ -3,18 +3,18 @@
 ## Bloquant
 
 - **E-mail de contact** : la maquette affiche `info@btpi.ch`. C'est l'adresse de *BTPI Suisse* (Givisiez),
-  une autre société. Remplacez-la par l'adresse de BTPI France : `site/content.js`, champ `contact.email`.
+  une autre société. Remplacez-la par l'adresse de BTPI France : `content.js`, champ `contact.email`.
 - **Témoignage** : il a été inventé pour la maquette (la citation, « 9500 m² », « Entrepôt logistique, Moselle »).
   Remplacez-le par un vrai avis client, avec son accord, ou retirez-le. Publier un faux avis est une pratique commerciale trompeuse.
 - **Mentions légales** : elles sont obligatoires pour un site professionnel en France (loi LCEN).
   Le template n'en prévoit pas : il faut ajouter une page.
-- **Aperçu de partage** : le titre écrit en dur dans `site/index.html` est encore « Template Site Immersif ».
+- **Aperçu de partage** : le titre écrit en dur dans `index.html` est encore « Template Site Immersif ».
   C'est ce qui s'affiche quand on partage le lien (LinkedIn, WhatsApp…). Il faut le corriger et ajouter
   une image d'aperçu et une icône d'onglet.
 
 ## Recommandé (RGPD)
 
-- Retirer de `site/index.html` les 32 adresses d'images d'exemple (picsum.photos) : les navigateurs des
+- Retirer de `index.html` les 32 adresses d'images d'exemple (picsum.photos) : les navigateurs des
   visiteurs les appellent au chargement, avant que le site les remplace.
 - Héberger les polices sur le site plutôt que chez Google Fonts.
 

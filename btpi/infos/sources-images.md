@@ -1,6 +1,6 @@
 # Provenance des images
 
-Toutes les images du site sont dans `../site/images/`, en local : aucune n'est chargée depuis un autre site.
+Toutes les images du site sont dans `../images/`, en local : aucune n'est chargée depuis un autre site.
 
 | Fichier | Emplacement | Source |
 |---|---|---|
@@ -38,4 +38,4 @@ Toutes les images du site sont dans `../site/images/`, en local : aucune n'est c
 | `tr-20.jpg` | Traînée sous la souris | Unsplash — https://images.unsplash.com/photo-1585585825759-979ec75438cc |
 
 Licences : [Unsplash](https://unsplash.com/license) et [Pexels](https://www.pexels.com/license/) — usage libre, attribution non obligatoire.
-Les illustrations `../site/illustrations/fe-*.svg` ont été dessinées pour le site (SVG faits à la main, pas d'IA).
+Les illustrations `../illustrations/fe-*.svg` ont été dessinées pour le site (SVG faits à la main, pas d'IA).

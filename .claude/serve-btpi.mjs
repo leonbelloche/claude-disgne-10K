@@ -4,7 +4,7 @@ import { extname, join, normalize } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 // dossier du site, résolu depuis ce fichier : fonctionne quel que soit l'emplacement du clone
-const ROOT = fileURLToPath(new URL('../site-btpi/site', import.meta.url));
+const ROOT = fileURLToPath(new URL('../btpi', import.meta.url));
 const PORT = process.env.PORT || 4385;
 
 const MIME = {
