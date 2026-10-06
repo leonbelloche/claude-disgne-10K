@@ -1,30 +1,61 @@
-# BTPI : ce que les recherches ont trouvé
+# BTPI : informations de l'entreprise
 
-Informations publiques relevées en septembre 2026.
+Source principale : la réponse de Jordan Bellicini (octobre 2026), complétée par les registres publics.
 
 | | |
 |---|---|
-| **Dénomination** | BTPI — Bellicini Tuyauterie Protection Incendie |
-| **Forme** | SAS (société par actions simplifiée) |
-| **SIREN** | 442 978 383 |
-| **Code NAF** | 80.20Z — Activités liées aux systèmes de sécurité |
+| **Dénomination** | BTPI – Bellicini Tuyauterie Protection Incendie |
+| **Forme** | SAS au capital de 7 800 € |
+| **Siège** | 15 Clos de Baine, 54700 Norroy-lès-Pont-à-Mousson |
+| **RCS** | Nancy 442 978 383 — SIRET 442 978 383 00010 |
+| **Code APE** | 3320A selon Jordan ; 80.20Z selon Pappers et Societe.com (à vérifier sur le Kbis) |
+| **TVA intracommunautaire** | FR47 442 978 383 |
+| **Président** | LINE CORP (RCS Nancy 989 588 686), représentée par Jordan BELLICINI |
+| **Directeur de la publication** | Jordan BELLICINI |
+| **E-mail** | btpi.bellicini@btpispk.fr |
+| **Téléphones** | portable 06 20 96 71 75 — fixe 03 54 32 91 88 |
+| **Nom de domaine** | btpispk.fr |
 | **Création** | 2002 |
-| **Siège** | 15 Le Clos de Baine, 54700 Norroy-lès-Pont-à-Mousson (Meurthe-et-Moselle, Lorraine) |
-| **Activité déclarée** | « La conception, la réalisation, la réparation et l'entretien de matériels de lutte contre l'incendie, fixe et automatique ou manuel, de type sprinkler et/ou RIA. » |
-| **Effectif** | 6 à 9 salariés (2023) |
-| **Chiffre d'affaires 2024** | 1,52 M€, en hausse de 34 % ; résultat net d'environ 211 k€ |
-| **Présidence** | LINE CORP (personne morale), depuis fin 2025 |
-| **Site web, réseaux sociaux** | Aucun trouvé |
-| **Téléphone, e-mail** | Non publics |
+| **Certifications** | Aucune |
 
-## Attention : homonyme
+## Activité
 
-*BTPI — Bureau Technique Protection Incendie* (Givisiez, Suisse, site btpi.ch, e-mail `info@btpi.ch`)
-est une **autre société**. Elle fait des contrôles de protection incendie agréés AEAI. L'e-mail affiché
-sur la maquette est le sien : il faut le remplacer.
+Conception, réalisation, réparation et entretien de réseaux sprinklers et de RIA.
+
+Spécialité : **les travaux en milieu occupé**, c'est-à-dire dans des sites industriels en activité,
+notamment dans l'agroalimentaire. Chaque chantier y exige une organisation rigoureuse et la maîtrise
+des contraintes d'hygiène et de production.
+
+## Références citées par BTPI
+
+- Les usines McCain de France : Harnes, Matougues, Béthune.
+- Les sites Saint-Gobain du Grand Est : Foug, Pont-à-Mousson, Bayard, Toul.
+- Le groupe Mars : Steinbourg, Ernolsheim.
+- Le siège mondial de Royal Canin, à Aimargues.
+- Des papeteries : PDV, Lucart, Sopalin.
+- De nombreuses entreprises de taille plus modeste.
+
+Les projets sont menés en lien avec les assureurs des clients : FM Global, AXA, Allianz…
+
+## Zone d'intervention
+
+Principalement le Grand Est et les Hauts-de-France. BTPI se déplace aussi dans d'autres régions selon
+les besoins, notamment dans le sud de la France.
+
+## Démarche
+
+« Chaque site est unique : nous étudions votre demande et définissons ensemble la démarche la plus adaptée à votre besoin. »
+
+## Registres publics (septembre 2026)
+
+Effectif de 6 à 9 salariés (2023). Chiffre d'affaires 2024 : 1,52 M€.
+
+## Homonyme
+
+*BTPI — Bureau Technique Protection Incendie* (Givisiez, Suisse, btpi.ch) est une **autre société**.
 
 ## Sources
 
+- La réponse de Jordan Bellicini, par e-mail.
 - [Pappers — BTPI Bellicini Tuyauterie Protection Incendie](https://www.pappers.fr/entreprise/btpi-bellicini-tuyauterie-protection-incendie-442978383)
 - [Societe.com — Bellicini Tuyauterie Protection Incendie](https://www.societe.com/societe/bellicini-tuyauterie-protection-incendie-442978383.html)
-- [btpi.ch — BTPI Suisse (homonyme)](https://www.btpi.ch/)

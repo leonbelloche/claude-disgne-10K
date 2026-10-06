@@ -21,14 +21,14 @@ window.SITE_CONTENT = {
 
   brand: {
     name: 'BTPI',                                   // wordmark (header, loader, footer géant)
-    title: 'BTPI — Sprinklers & RIA, Lorraine',     // <title> SEO
-    description: 'BTPI conçoit, installe et entretient des réseaux sprinklers et des robinets d’incendie armés (RIA) en Lorraine depuis 2002. Norroy-lès-Pont-à-Mousson (54).',
-    kicker: 'BTPI — TUYAUTERIE PROTECTION INCENDIE, LORRAINE',
+    title: 'BTPI — Sprinklers & RIA en sites industriels',   // <title> SEO
+    description: 'BTPI conçoit, installe et entretient des réseaux sprinklers et des RIA en sites industriels en activité, notamment dans l’agroalimentaire. Grand Est, Hauts-de-France et au-delà, depuis 2002.',
+    kicker: 'BTPI — SPRINKLERS & RIA EN SITES INDUSTRIELS',
     copyright: '© 2026 — NORROY-LÈS-PONT-À-MOUSSON, FRANCE',
     signature: 'FAITE AVEC DE L’EAU SOUS PRESSION',
     socials: [
-      { label: 'ITINÉRAIRE ↗', url: 'https://www.google.com/maps/search/?api=1&query=BTPI%2015%20Le%20Clos%20de%20Baine%2054700%20Norroy-l%C3%A8s-Pont-%C3%A0-Mousson' },
-      { label: 'FICHE SOCIÉTÉ ↗', url: 'https://www.pappers.fr/entreprise/btpi-bellicini-tuyauterie-protection-incendie-442978383' }
+      { label: 'ITINÉRAIRE ↗', url: 'https://www.google.com/maps/search/?api=1&query=BTPI%2015%20Clos%20de%20Baine%2054700%20Norroy-l%C3%A8s-Pont-%C3%A0-Mousson' },
+      { label: 'MENTIONS LÉGALES', url: 'mentions-legales.html' }
     ]
   },
 
@@ -59,12 +59,12 @@ window.SITE_CONTENT = {
 
   /* 2 · POSITIONNEMENT — ≤ 42 caractères (affiché nowrap, en blanc
      sur l'image plein écran) */
-  positioning: 'Sprinklers, RIA, entretien — en Lorraine.',
+  positioning: 'Sprinklers et RIA — en sites industriels.',
 
   /* 3 · DÉMARCHE — [[…]] = ce qu'entoure l'ovale dessiné :
      2 à 3 MOTS MAXIMUM, JAMAIS une phrase entière. */
   manifesto: {
-    text: 'Depuis 2002, BTPI conçoit, pose et entretient des réseaux qu’on espère ne jamais voir servir. Un sprinkler peut attendre vingt ans, puis s’ouvrir [[au bon degré]] — c’est pour cet instant-là que nous travaillons.'
+    text: 'Depuis 2002, BTPI pose ses réseaux là où la production ne s’arrête jamais : agroalimentaire, industrie, papeterie. Un sprinkler peut attendre vingt ans, puis s’ouvrir [[au bon degré]] — c’est pour cet instant-là que nous travaillons.'
   },
 
   /* 4 · PREUVE — bento : 4 métiers illustrés, big / tall / tall / big */
@@ -72,8 +72,8 @@ window.SITE_CONTENT = {
     layout: 'bento',
     kicker: 'CE QUE NOUS FAISONS',
     title: 'Du plan à la maintenance',
-    sub: 'Sprinklers et robinets d’incendie armés, de l’étude à l’entretien.',
-    meta: 'QUATRE MÉTIERS — DEPUIS 2002',
+    sub: 'Sprinklers et RIA en milieu occupé, de l’étude à l’entretien.',
+    meta: 'DEPUIS 2002 — GRAND EST, HAUTS-DE-FRANCE ET AU-DELÀ',
     projects: [],
     features: [
       { size: 'big',  illu: 'illustrations/fe-1.svg', title: 'Conception', meta: 'ÉTUDE — CALCUL HYDRAULIQUE — PLANS' },
@@ -85,11 +85,11 @@ window.SITE_CONTENT = {
 
   /* 5 · DEVISE — 3 mots (train horizontal scrubé), hint d'une ligne */
   motto: {
-    kicker: 'CE QUI GUIDE CHAQUE RÉSEAU',
+    kicker: 'CE QUI GUIDE CHAQUE CHANTIER',
     words: [
-      { word: 'Précision', hint: 'Un réseau calculé au litre et au bar près.' },
-      { word: 'Fiabilité', hint: 'Une installation qui dort des années et répond à la seconde.' },
-      { word: 'Proximité', hint: 'Une équipe lorraine, qui revient chaque année.' }
+      { word: 'Rigueur', hint: 'Une organisation de chantier calée sur votre production.' },
+      { word: 'Maîtrise', hint: 'Les contraintes d’hygiène et de production, intégrées dès l’étude.' },
+      { word: 'Savoir-faire', hint: 'Plus de vingt ans de réseaux en sites industriels en activité.' }
     ]
   },
 
@@ -102,25 +102,26 @@ window.SITE_CONTENT = {
     cta: 'Demander un devis →',                     // CTA final (ovale dessiné)
     image: 'images/process.jpg',                    // le zoom d'intro (le SEUL visuel de la scène)
     items: [
-      { name: 'Relevé & étude', meta: 'ÉTAPE — 01', desc: 'Visite du site et analyse du risque, puis dimensionnement : débits, pressions, implantation des têtes et des RIA.' },
-      { name: 'Pose', meta: 'ÉTAPE — 02', desc: 'Tuyauterie, têtes sprinklers, postes de contrôle et RIA installés et raccordés, puis essais en eau avant la mise en service.' },
+      { name: 'Étude', meta: 'ÉTAPE — 01', desc: 'Chaque site est unique : nous étudions votre demande et définissons avec vous la démarche la plus adaptée, en lien avec votre assureur.' },
+      { name: 'Pose', meta: 'ÉTAPE — 02', desc: 'Tuyauterie, têtes sprinklers, postes de contrôle et RIA posés en milieu occupé, au rythme de votre production, puis essais avant la mise en service.' },
       { name: 'Suivi', meta: 'ÉTAPE — 03', desc: 'Vérifications périodiques, entretien et réparations : votre réseau reste prêt, année après année.' }
     ]
   },
 
-  /* 8 · PREUVE SOCIALE — ⚠ AVIS D'EXEMPLE, À REMPLACER par un vrai
-     témoignage client (ou à retirer) avant toute mise en ligne. */
+  /* 8 · PREUVE SOCIALE — les références clients fournies par BTPI.
+     Pas de `figure` : la citation prend toute la place. */
   testimonial: {
-    kicker: 'ENTREPÔT LOGISTIQUE, MOSELLE',
-    figure: '9500',
-    unit: 'm²',
-    quote: 'Tout l’entrepôt a été équipé sans arrêter l’activité. Un an plus tard, ils sont revenus pour la vérification sans qu’on ait à les relancer.',
-    author: 'RESPONSABLE DE SITE — PLATEFORME LOGISTIQUE'
+    kicker: 'EN LIEN AVEC LEURS ASSUREURS : FM GLOBAL, AXA, ALLIANZ…',
+    figure: '',
+    unit: '',
+    quote: 'Ils nous confient leurs sites en activité : McCain, Saint-Gobain, Mars, Royal Canin, PDV, Lucart, Sopalin.',
+    author: 'NOS RÉFÉRENCES'
   },
 
   /* 9 · OBJECTIONS — 3 freins + la chute (pill = mots entourés) */
   objections: {
-    items: ['Pas de jargon.', 'Pas de devis flou.', 'Pas de visite oubliée.'],
+    /* \u00a0 = espace insécable : garde « Pas de … » groupé à la coupure de ligne */
+    items: ['Pas\u00a0de\u00a0site à\u00a0l’arrêt.', 'Pas\u00a0de\u00a0solution standard.', 'Pas\u00a0d’impasse sur\u00a0l’hygiène.'],
     finale: 'Juste de l’eau,',
     pill: 'au bon moment.'
   },
@@ -128,8 +129,8 @@ window.SITE_CONTENT = {
   /* 10 · CONVERSION */
   contact: {
     kicker: 'UN SITE À PROTÉGER ?',
-    email: 'info@btpi.ch',
-    reassurance: 'RÉPONSE SOUS 48 H — DEVIS GRATUIT, SANS ENGAGEMENT'
+    email: 'btpi.bellicini@btpispk.fr',
+    reassurance: 'PORTABLE\u00a006\u00a020\u00a096\u00a071\u00a075 — FIXE\u00a003\u00a054\u00a032\u00a091\u00a088'   // \u00a0 : numéros jamais coupés
   },
 
   /* traînée sous la souris (finale) — 20 visuels, petits formats mixtes */
