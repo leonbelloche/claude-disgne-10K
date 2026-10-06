@@ -1,42 +1,8 @@
-# BTPI — site vitrine « Site Immersif »
+# BTPI — site vitrine
 
-Site one-page animé pour **BTPI (Bellicini Tuyauterie Protection Incendie)** — sprinklers et RIA,
-Norroy-lès-Pont-à-Mousson (54). Il est généré à partir du template *Site Immersif* : scroll scrubé,
-scènes épinglées, zoom-texte, rideau de lames et bande d'accent.
+Tout est dans le dossier **[`site-btpi/`](site-btpi/)** :
 
-## Voir le site en local
+- `site-btpi/site/` : le site. Double-cliquez sur `index.html` pour l'ouvrir.
+- `site-btpi/infos/` : toutes les informations (mail au client, points à valider, recherches sur l'entreprise, provenance des images, aperçus).
 
-Le site est sur la branche **`claude/sharp-allen-xxep9z`** (la branche `main` est vide).
-
-**Le plus simple** : téléchargez la branche (sur GitHub : choisir la branche, puis *Code → Download ZIP*),
-décompressez-la, puis double-cliquez sur `btpi/index.html`. Aucun serveur n'est nécessaire.
-
-**Avec un serveur local** (Node.js requis), depuis la racine du dépôt :
-
-```bash
-node .claude/serve-btpi.mjs
-# → http://localhost:4385
-```
-
-## Modifier le contenu
-
-- **Textes et images** : uniquement dans `btpi/content.js` (partie haute, `window.SITE_CONTENT`).
-  La partie basse « INJECTION » ne se modifie pas.
-- **Nouvelles photos** : les déposer dans `btpi/images/`, puis mettre à jour leur chemin dans `content.js`.
-- `index.html` et `app.js` sont le moteur du template, copiés à l'identique. Il ne faut pas les modifier.
-
-## Choix appliqués
-
-- Thème **sombre** (`<html data-theme="dark">`).
-- Accent **rouge** `#e1251b`, texte blanc sur l'accent (contraste 4,7:1).
-- Section preuve en **bento** : Conception · Sprinklers · RIA · Entretien & réparation.
-- `styles.css` : en plus des deux valeurs prévues par le template (accent, visuel « animations réduites »),
-  un correctif de 2 lignes pour le bento sous 480 px. Sans lui, deux tuiles étaient écrasées dans une colonne de 26 px.
-
-## À valider avant la mise en ligne
-
-- **Témoignage** (section « preuve sociale ») : c'est un **exemple inventé**. Il faut le remplacer par un vrai avis client, ou le retirer.
-- **E-mail** `info@btpi.ch` : c'est l'adresse de *BTPI Suisse* (Givisiez), une autre société. Il faut la remplacer par l'adresse de BTPI France.
-- Engagements affichés (« réponse sous 48 h, devis gratuit », « Pas de devis flou », « Pas de visite oubliée »).
-- Liens du pied de page : itinéraire Google Maps et fiche Pappers. Aucun réseau social n'a été trouvé ; à remplacer si la société en a.
-- Provenance des images : `btpi/images/SOURCES.md` (2 images générées par IA, les autres viennent d'Unsplash et de Pexels).
+Commencez par lire [`site-btpi/LISEZ-MOI.md`](site-btpi/LISEZ-MOI.md).
